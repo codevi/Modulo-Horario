@@ -1,0 +1,39 @@
+{
+  "name": "fecha-de-publicacion",
+  "version": "0.0.1",
+  "description": "fecha de publicacion post",
+  "main": "horario.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ockang/Modulo-Horario.git"
+  },
+  "keywords": [
+    "horario",
+    "de",
+    "publicacion",
+    "modulo",
+    "de",
+    "horario",
+    "para",
+    "node",
+    "horario",
+    "node",
+    "node",
+    "horario",
+    "new",
+    "date",
+    "npm",
+    "new",
+    "date",
+    "node"
+  ],
+  "author": "Edinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ockang/Modulo-Horario/issues"
+  },
+  "homepage": "https://github.com/ockang/Modulo-Horario#readme"
+}
